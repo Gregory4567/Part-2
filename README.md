@@ -12,4 +12,4 @@ Country – User’s country (randomly chosen from 10 options)<br>
 Subscription_Type – Type of Netflix plan (Basic, Standard, Premium)<br>
 Watch_Time_Hours – Total hours watched in the last month<br>
 Favorite_Genre – User’s preferred genre<br>
-Last_Login – Last recorded login date within the past year<br>
+Last_Login – Last recorded login date<br>
